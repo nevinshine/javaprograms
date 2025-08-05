@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CommonElements
+class CommonElements
 {
     public static void main(String[] args)
     {
