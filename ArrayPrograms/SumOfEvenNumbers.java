@@ -1,5 +1,5 @@
 import java.util.*;
-class SumOfEvenNos
+class SumOfEvenNumbers
 {
     public static void main(String[] args)
     {
@@ -13,10 +13,10 @@ class SumOfEvenNos
             sumarr[i]=sc1.nextInt();
         }
         int sum=0;
-        for (inti=0;i<sumarr.length;i++)
+        for (int i=0;i<sumarr.length;i++)
         {
             if (sumarr[i]%2==0) {
-                sum += sumarr[i];
+                sum+= sumarr[i];
             }
         }
         System.out.println("Sum of even elements: "+sum);
