@@ -83,6 +83,6 @@ The goal of this repository is to serve as a personal learning journal and a pub
 
 -----
 
-\<div align="center"\>
-\<p\>Thank you for visiting\!\</p\>
-\</div\>
+<div align="center"\>
+<p\>Thank you for visiting!</p\>
+</div\>
