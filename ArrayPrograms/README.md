@@ -64,7 +64,7 @@ Follow the on-screen prompts to interact with the program.
 ## 📁 Directory Structure
 
 The repository is organized to keep each program isolated and easy to locate.
-
+```
 javaprograms/
 ├── .vscode/
 │   └── (configuration files)
@@ -118,7 +118,7 @@ javaprograms/
 │       ├── TransposeMatrix.class
 │       └── TransposeMatrix.png
 └── README.md
-
+```
 -----
 
 ## 📄 License
