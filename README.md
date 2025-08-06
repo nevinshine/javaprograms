@@ -11,7 +11,7 @@ Welcome to my personal collection of Java projects\! This repository is a curate
 ## 🚀 Projects Overview
 
 This repository is organized into distinct modules. Click on any project to explore its dedicated `README` and source code.
-
+```
 \<table width="100%"\>
 \<tr\>
 \<td width="50%" valign="top"\>
@@ -46,7 +46,7 @@ This repository is organized into distinct modules. Click on any project to expl
 \</td\>
 \</tr\>
 \</table\>
-
+```
 -----
 
 ## 🛠️ How to Use This Repository
