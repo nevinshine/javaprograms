@@ -3,8 +3,6 @@
 
 Welcome to my personal collection of Java projects\! This repository is a curated showcase of various programming concepts, from fundamental algorithms to core Object-Oriented principles. Each project is designed to be a clear, focused, and practical demonstration.
 
-\</div\>
-
 -----
 
 ## 🚀 Projects Overview
