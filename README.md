@@ -11,42 +11,40 @@ Welcome to my personal collection of Java projects\! This repository is a curate
 ## 🚀 Projects Overview
 
 This repository is organized into distinct modules. Click on any project to explore its dedicated `README` and source code.
-```
-\<table width="100%"\>
-\<tr\>
-\<td width="50%" valign="top"\>
-\<div align="center"\>
-\<h3\>🧮 Array Programs\</h3\>
-\</div\>
-\<p\>A comprehensive collection of programs demonstrating various operations on arrays and matrices. This project is perfect for practicing fundamental data structure manipulations, sorting algorithms, and search techniques.\</p\>
-\<ul\>
-\<li\>✔️ Binary Search\</li\>
-\<li\>✔️ Matrix Multiplication\</li\>
-\<li\>✔️ Sorting & Reversing\</li\>
-\<li\>✔️ Finding Common & Duplicate Elements\</li\>
-\</ul\>
-\<p align="center"\>
-\<a href="./ArrayPrograms"\>\<strong\>➡️ Go to Project\</strong\>\</a\>
-\</p\>
-\</td\>
-\<td width="50%" valign="top"\>
-\<div align="center"\>
-\<h3\>🚗 Vehicle Management (Inheritance)\</h3\>
-\</div\>
-\<p\>A practical demonstration of Object-Oriented Programming, this project uses a \<strong\>Vehicle\</strong\> superclass with \<strong\>Car\</strong\> and \<strong\>Motorcycle\</strong\> subclasses to model real-world inheritance, encapsulation, and polymorphism.\</p\>
-\<ul\>
-\<li\>✔️ Superclass & Subclass Structure\</li\>
-\<li\>✔️ Method Overriding\</li\>
-\<li\>✔️ Use of \<code\>super()\</code\> Keyword\</li\>
-\<li\>✔️ Real-world OOP Example\</li\>
-\</ul\>
-\<p align="center"\>
-\<a href="./Inheritance/VehicleManagement"\>\<strong\>➡️ Go to Project\</strong\>\</a\>
-\</p\>
-\</td\>
-\</tr\>
-\</table\>
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🧮 Array Programs</h3>
+      </div>
+      <p>A comprehensive collection of programs demonstrating various operations on arrays and matrices. This project is perfect for practicing fundamental data structure manipulations, sorting algorithms, and search techniques.</p>
+      <ul>
+        <li>✔️ Binary Search</li>
+        <li>✔️ Matrix Multiplication</li>
+        <li>✔️ Sorting & Reversing</li>
+        <li>✔️ Finding Common & Duplicate Elements</li>
+      </ul>
+      <p align="center">
+        <a href="./ArrayPrograms"><strong>➡️ Go to Project</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🚗 Vehicle Management (Inheritance)</h3>
+      </div>
+      <p>A practical demonstration of Object-Oriented Programming, this project uses a <strong>Vehicle</strong> superclass with <strong>Car</strong> and <strong>Motorcycle</strong> subclasses to model real-world inheritance, encapsulation, and polymorphism.</p>
+      <ul>
+        <li>✔️ Superclass & Subclass Structure</li>
+        <li>✔️ Method Overriding</li>
+        <li>✔️ Use of <code>super()</code> Keyword</li>
+        <li>✔️ Real-world OOP Example</li>
+      </ul>
+      <p align="center">
+        <a href="./Inheritance/VehicleManagement"><strong>➡️ Go to Project</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 -----
 
 ## 🛠️ How to Use This Repository
