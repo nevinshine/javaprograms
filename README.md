@@ -56,7 +56,7 @@ To get started with any of the projects, follow these general steps:
 
 1.  **Clone the repository to your local machine:**
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/nevinshine>
     ```
 2.  **Navigate to the main project directory:**
     ```bash
