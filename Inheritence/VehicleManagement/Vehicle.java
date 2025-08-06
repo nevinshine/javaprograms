@@ -55,7 +55,7 @@ class Car extends Vehicle
 
     void displayInfo()
     {
-        System.out.println(" Car Info ");
+        System.out.println("<--Car Info--> ");
         displayBasicInfo();
         System.out.println("Number of Doors: "+carNumberOfDoors);
         System.out.println("Insurance: Rs"+calculateInsurance());
@@ -100,7 +100,7 @@ class Motorcycle extends Vehicle
 
     void displayInfo()
     {
-        System.out.println(" Motorcycle Info ");
+        System.out.println("<--Motorcycle Info--> ");
         displayBasicInfo();
         if(motorcycleHasSidecar)
         {
