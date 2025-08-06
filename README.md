@@ -1,4 +1,3 @@
-\<div align="center"\>
 
 # ☕ Java Programming Showcase ☕
 
@@ -45,6 +44,8 @@ This repository is organized into distinct modules. Click on any project to expl
     </td>
   </tr>
 </table>
+
+
 -----
 
 ## 🛠️ How to Use This Repository
