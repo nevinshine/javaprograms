@@ -23,8 +23,6 @@ The table below lists all the programs currently available in this repository. E
 | [**Sum of Two Matrices**](https://www.google.com/search?q=./ArrayPrograms/Sum%2520of%2520Two%2520Matrices/)   | Performs element-wise addition of two matrices of the same dimensions.      |
 | [**Transpose Matrix**](https://www.google.com/search?q=./ArrayPrograms/Transpose%2520Matrix/)            | Finds the transpose of a given matrix by swapping its rows and columns.     |
 
-*(As you add more programs, simply add a new row to this table\!)*
-
 -----
 
 ## 🛠️ Getting Started
