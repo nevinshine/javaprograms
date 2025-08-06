@@ -44,7 +44,7 @@ javac -version
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/nevinshine/javaprograms>
     ```
 2.  **Navigate to the program's directory.** For example, to run the Binary Search program:
     ```bash
