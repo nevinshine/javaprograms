@@ -66,8 +66,6 @@ Follow the on-screen prompts to interact with the program.
 The repository is organized to keep each program isolated and easy to locate.
 ```
 javaprograms/
-├── .vscode/
-│   └── (configuration files)
 ├── ArrayPrograms/
 │   ├── Binary Search/
 │   │   ├── BinarySearch.java
