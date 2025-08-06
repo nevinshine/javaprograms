@@ -65,12 +65,6 @@ Follow the on-screen prompts to interact with the program.
 
 The repository is organized to keep each program isolated and easy to locate.
 
-```
-Got it. Here is the complete file structure of your `javaprograms` repository based on all the files you've shown.
-
-This tree view shows how all your folders and files are organized.
-
-```
 javaprograms/
 ├── .vscode/
 │   └── (configuration files)
