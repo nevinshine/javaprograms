@@ -1,6 +1,3 @@
-Understood. Here is the same README, but updated for a project folder named **Vehicle Management**.
-
-All the core concepts and code explanations remain the same, but the title and instructions are now tailored to the new folder name.
 
 -----
 
