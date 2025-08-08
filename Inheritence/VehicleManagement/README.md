@@ -1,7 +1,7 @@
 
 # Vehicle Management System 🚗🏍️
 
-This project is a practical demonstration of Object-Oriented Programming (OOP) principles in Java, specifically focusing on **inheritance**. It models a real-world hierarchy with a generic `Vehicle` superclass and more specific `Car` and `Motorcycle` subclasses, each with unique attributes and methods.
+This project is a practical demonstration of Object-Oriented Programming (OOP) principles in Java, specifically focusing on **inheritance**. It models a real-world hierarchy with a generic `Vehicle` superclass and more specific `Car` and `Motorcycle` subclasses, each with unique attributes and methods. 
 
 This project serves as a clear example of how to build reusable and extensible code by defining common features in a base class and specialized features in derived classes.
 
